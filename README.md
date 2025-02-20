@@ -101,7 +101,7 @@
 |<img src="src/main/resources/static/images/jhrchicken.jpeg" width="120" height="120">|<img src="src/main/resources/static/images/budayeong.jpeg" width="120" height="120">|<img src="src/main/resources/static/images/leehr.jpeg" width="120" height="120">|
 |백엔드 및 팀장|백엔드|프론트엔드|
 
-#### 닥터뷰 프로젝트에서 정하림([@jhrchicken](https://github.com/jhrchicken))의 주요 역할은 다음과 같습니다.
+#### 닥터뷰 프로젝트에서 부다영([@Budayeong](https://github.com/Budayeong))의 주요 역할은 다음과 같습니다.
 
 <ul>
   <li>
@@ -113,29 +113,18 @@
   </li>
   <br/>
   <li>
-    <b>UI 구현</b>
-    <ul>
-      <li>홈, 헤더, 푸터 등 모든 <b>메인 관련 페이지</b></li>
-      <li>게시판 목록, 게시판 작성, 게시판 수정, 게시판 상세 등 모든 <b>게시판 관련 페이지</b></li>
-      <li>이모지 상점, 나의 이모지 등 모든 <b>이모지 관련 페이지</b></li>
-      <li>예약 내역 등 일부 <b>마이페이지 관련 페이지</b></li>
-    </ul>
-  </li>
-  <br/>
-  <li>
     <b>기능 개발</b>
     <ul>
-      <li>병원 키워드로 검색, 병원 조건 필터링 검색, 병원 지도로 찾기, 진료시간에 따른 병원 필터링 후 지도에 표시 등 모든 <b>병원 찾기 기능</b></li>
-      <li>병원 기본정보와 추가정보 표시, 병원 찜 표시 등 <b>병원 상세정보 확인 기능</b></li>
-      <li>의사 키워드로 검색, 의사 기본정보와 추가정보 표시, 의사 찜 표시 등 모든 <b>의사 찾기 및 상세정보 확인 기능</b></li>
-      <li>별점과 해시태그를 통한 리뷰 작성과 수정과 삭제, 리뷰 답변 작성과 수정과 삭제, 리뷰 수정 여부 표시 등 모든 <b>리뷰 기능</b></li>
-      <li>React와 Firebase 연동, 채팅 목록, 채팅방, 채팅 이력과 이전 대화 조회, 채팅 날짜와 시간 표시 등 모든 <b>실시간 채팅 기능</b></li>
-      <li>게시글 작성과 수정과 삭제, 댓글 작성과 수정과 삭제, 게시글 좋아요 및 신고, 게시판 활동 내역 확인 등 모든 <b>게시판 기능</b></li>
+      <li><b>일반회원 병원 예약</b> - 의사, 날짜, 시간을 선택해 병원 방문 예약을 하는 기능</li>
+      <li><b>병원회원 예약 관리</b> - 진료 요일, 시간에 따라 진료예약 받기를 on/off 하는 기능</li>
+      <li><b>이모지 상점</b> - 일반회원의 이모지 구매, 적용 기능</li>
+      <li><b>출석체크</b> - 포인트 획득을 위한 출석체크 기능/li>
+      <li><b>로그인/회원가입</b> - 홈페이지 회원 가입 및 회원 정보 수정</li>
     </ul>
   </li>
 </ul>
 
-#### 다른 팀원에 대한 자세한 정보는 부다영([@budayeong](https://github.com/Budayeong))과 이회리([@leeeeeeeeeeeehr](https://github.com/leeeeeeeeeeeehr))에서 확인하세요.
+#### 다른 팀원에 대한 자세한 정보는 정하림([@jhrchicken](https://github.com/jhrchicken))과 이회리([@leeeeeeeeeeeehr](https://github.com/leeeeeeeeeeeehr))에서 확인하세요.
 
 <div align="right">
   
