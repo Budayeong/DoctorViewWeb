@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="/css/home.css" />
 <script src="/js/home.js"></script>
 </head>
-<body>
+<body> 
 
 <!-- 회원탈퇴 알림 -->
 <c:if test="${ not empty withdraw }">
